@@ -1,0 +1,4 @@
+./file_management/.env
+./file_management/__pycache__/
+./mcp_file_management/.env
+./mcp_file_management/__pycache__/
